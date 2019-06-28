@@ -23,8 +23,8 @@ Eventually, once the keyword is entered, it must output:
 
 SYNOPSIS
  
-  ./groundhog period
+    ./groundhog period
 
 DESCRIPTION
   
-  period the number of days defining a period
+    period the number of days defining a period
