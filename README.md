@@ -23,7 +23,7 @@ Eventually, once the keyword is entered, it must output:
 
 to launch:
 
-    - make / make re
+    make / make re
 
 SYNOPSIS
  
