@@ -21,6 +21,10 @@ Eventually, once the keyword is entered, it must output:
   1. the total number of tendency switches observed on the whole time-series,
   2. the list of the five biggest aberrations observed on the whole time-series (sorted by decreasing weirdness).
 
+to launch:
+
+    - make / make re
+
 SYNOPSIS
  
     ./groundhog period
