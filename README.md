@@ -28,3 +28,5 @@ SYNOPSIS
 DESCRIPTION
   
     period the number of days defining a period
+   
+Aymeric Astaing - EPITECH PARIS PROMO 2022
