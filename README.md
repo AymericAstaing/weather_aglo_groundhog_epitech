@@ -1,4 +1,4 @@
-# trading_groundhog_epitech (TECH 2 2018-2019)
+# weather_aglo_groundhog_epitech (TECH 2 2018-2019)
 
 The goal of this project is to extract some relevant information from the data received in real-time on standard input (each
 float representing a temperature), in order to detect weather aberrations (droughts, severe colds, hurricanes
